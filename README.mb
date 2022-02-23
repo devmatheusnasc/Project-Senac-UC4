@@ -1,0 +1,22 @@
+#Projeto desenvolvido em python, com intuito de praticar habilidades aprendida nos curso.
+
+***********************************************************
+
+
+#Para que o programa Funcione Corretamente, são nescessario baixar alguns pacote no TERMINAL DO PROJETO.
+
+#CONNECTION COM BANCO DE DADOS:
+
+Dependecy :
+pip install mysql-connector-python;
+
+
+//////////////
+
+#TK()
+importações nescessaria no projeto.
+
+Dependecy :
+
+sudo apt-get install python3-tk
+
